@@ -1,64 +1,40 @@
 {
-  "favorites_db": [
-    {
-      "favorites": [
-        "cdu6IXM8FXGMx3TLe1",
-        "SVYrs1hU0SiAf1nw1n",
-        "hebekR37NJGLETAEoJ"
-      ],
-      "id": "2"
-    },
-    {
-      "id": "1",
-      "favorites": [
-        "S5ceQBMUutOS8D4Xt9",
-        "WG1YcoKVPwhR30HWP9",
-        "64BMk9wfF41SNhHSwY",
-        "SVYrs1hU0SiAf1nw1n",
-        "B2vBunhgt9Pc4",
-        "xTiTnqUxyWbsAXq7Ju",
-        "tXL4FHPSnVJ0A",
-        "lNimfezUn8Yh2"
-      ]
-    },
-    {
-      "favorites": ["MVDPX3gaKFPuo"],
-      "id": "HuYsk4_"
-    },
-    {
-      "id": "6tPQIS_",
-      "favorites": [
-        "8UOnaIKakDKLtshm2y",
-        "MVDPX3gaKFPuo",
-        "pjHRKW5BPhqiAcBjE3",
-        "64BMk9wfF41SNhHSwY"
-      ]
-    }
-  ],
-  "users": [
-    {
-      "name": "Dan",
-      "email": "dan.vlasov123@gmail.com",
-      "password": "123123123",
-      "id": "1"
-    },
-    {
-      "name": "rest",
-      "email": "test@test.test",
-      "password": "123123123",
-      "id": "6tPQIS_"
-    },
-    {
-      "name": "asdfasfd",
-      "email": "asdfasdf@asd.asdf",
-      "password": "asdfasdf",
-      "id": "qO4a9GD"
-    },
-    {
-      "name": "Test",
-      "email": "test@test.t12",
-      "password": "123123123",
-      "id": "HuYsk4_"
-    }
-  ]
+  "videos": [
+  {
+    "id":1,
+    "title":"Video Academy 1",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+    "poster":"https://images.unsplash.com/photo-1655601597743-7ddd6fdc2903?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id":2,
+    "title":"Video Academy 2",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+    "poster":"https://images.unsplash.com/photo-1655601597743-7ddd6fdc2903?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id":3,
+    "title":"Video Academy 3",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+    "poster":"https://images.unsplash.com/photo-1655601597743-7ddd6fdc2903?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id":4,
+    "title":"Video Academy 4",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+    "poster":"https://images.unsplash.com/photo-1655601597743-7ddd6fdc2903?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id":5,
+    "title":"Video Academy 5",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+    "poster":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SMPTE_Color_Bars.svg/1200px-SMPTE_Color_Bars.svg.png"
+  },
+  {
+    "id":6,
+    "title":"Video Academy 6",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+    "poster":"https://images.unsplash.com/photo-1655601597743-7ddd6fdc2903?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=80"
+  }
+]
 }
